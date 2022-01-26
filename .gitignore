@@ -1,0 +1,14 @@
+# The input csvs
+data/
+
+# Hidding the virtual env 
+env/
+
+# Big embedding files
+embeddings/
+
+# Submission file 
+submission.csv
+
+# Notebook tmp files
+.ipynb_checkpoints/
